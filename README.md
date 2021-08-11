@@ -2,6 +2,6 @@
 
 Test configuration of static site (MkDocs) for documentation.
 
-´´´py
+´´´python
   py test
 ```
